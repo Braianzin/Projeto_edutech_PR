@@ -1,0 +1,198 @@
+
+body{
+	background: url(lal.png);
+
+}
+
+
+
+header{
+	padding: 30px 0px;
+	background:brown;
+	text-align: center;
+}
+.caixa{
+	width: 940px;
+	position: relative;
+	margin: 0 auto;
+
+
+}
+
+.navegação{
+
+
+
+
+
+}
+nav {
+	 position: absolute;
+top: 461px;;
+right:227px;
+}
+
+nav li{
+ display: inline-block;
+ margin: 0 0 0 20px;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+
+
+}
+
+nav a:hover{
+    color: burlywood;
+
+}
+
+
+
+
+
+
+
+
+
+
+.combos{
+	width: 940px;
+	margin: 0 auto;
+	padding: 30px 0 0 0;
+
+
+}
+.combos li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	padding: 50px 0;
+	margin:0 1.5%;
+	padding: 30px 20px ;
+	box-sizing: border-box;
+	border: 9px solid black;
+	border-radius: 20px;
+	background: brown;
+}
+.combos h2{
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase
+
+}
+.fredin{
+	margin: 100px 0;
+
+
+
+
+
+}
+
+.combos li:hover{
+   border-color: purple;
+
+
+}
+
+
+.combos li:hover h2{
+   font-size: 27px;
+   color: yellow;
+   text-align: center;
+
+
+}
+
+
+.combos li:active{
+   border-color:yellow;
+
+
+}
+
+
+.d{
+
+	color: white;
+	font-size: 18;
+}
+
+
+.vocalista{
+	text-decoration: none;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fd{
+	width: 120px;
+	margin: 1px 0;
+}
+
+
+#ch{
+   	width: 150px;
+
+}
+
+#bn{
+	width: 100px;
+
+}
+
+.produto {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 0 0;
+}
+
+#fx{
+	width: 30px;
+
+}
+
+footer{
+	text-align: center;
+	background:black;
+	padding: 30px 0;
+}
+
+#cp {
+	width: 8%
+}
+.copyrigth{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 13px 0 0;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+
+
+/*
+ lalau
+█▀▀▀▀▀█▄
+█░░░░░█─█
+▀▄▄▄▄▄▀▀

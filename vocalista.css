@@ -1,0 +1,140 @@
+
+body{
+	background: orange;
+}
+
+
+
+
+
+
+
+
+header{
+	padding: 19px 0px;
+	background:brown;
+	text-align: center;
+}
+.caixa{
+	width: 940px;
+	position: relative;
+	margin: 0 auto;
+}
+h2{
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 4em;
+	color: brown;
+	margin: 30px 0;
+	text-transform: uppercase
+
+
+}
+
+main{
+	 clear: left;
+
+}
+
+
+form{
+	margin:20px 0;
+	padding: 60px 25px;
+}
+
+
+
+
+
+
+
+form label, form p{
+	display: block;
+	font-size: 20px;
+	margin: 20px 30px;
+
+}
+
+#fd{
+ width: 30em;
+ float:right;
+ margin: 0px 300px;
+	
+
+
+
+
+
+}
+.coisas{
+	display: block;
+	margin: 0 30px 20px;
+	padding: 10px 25px;
+	width: 40%;
+
+}
+
+.bababoi{
+	margin: 0px 0px;
+	display: inline;
+
+}
+
+#enviar{
+	border-radius: 10px;
+	background: brown;
+	transition: 1s all;
+	width: 300px ;
+    margin: 30px 30px;
+    padding: 10px 0;
+
+}
+
+
+
+
+
+
+#enviar:hover{
+	color: yellow;
+	background: darkgoldenrod;
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	text-align: center;
+	background:black;
+	padding: 60px
+
+}
+
+#cp {
+	width: 8%
+}
+.copyrigth{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 13px 0;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+
+
+/*
+ lalau
+█▀▀▀▀▀█▄
+█░░░░░█─█
+▀▄▄▄▄▄▀▀

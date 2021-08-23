@@ -1,0 +1,113 @@
+
+body{
+	background: orange;
+
+}
+
+h1 img{
+
+	width: 600px;
+
+
+
+
+
+}
+
+header{
+	padding: 100px 0px;
+	background: #607d8b;
+	text-align: center;
+}
+
+.caixa{
+	width: 940px;
+	position: relative;
+	margin: 0 auto;
+
+}
+main{
+	width: 940px;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+form{
+	margin:20px 0;
+	padding: 60px 25px;
+
+}
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 10px 0;
+}
+form input{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 40%;
+}
+
+
+
+
+#ic2{
+
+	width: 30px;
+}
+#ic3{
+
+	width: 25px;
+}
+
+
+footer{
+	text-align: center;
+	background:black;
+	padding: 60px 0;
+}
+
+#cp {
+	width: 8%
+}
+.copyrigth{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 13px 0 0;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+
+
+
+
+
+
+.botão{
+	border-radius: 10px;
+	background: brown;
+	transition: 1s all;
+}
+
+
+
+
+
+
+.botão:hover{
+	color: yellow;
+	background: darkgoldenrod;
+	cursor: pointer;
+	transform: scale(1.1);
+
+
+
+
+/*
+
+█▀▀▀▀▀█▄
+█░░░░░█─█
+▀▄▄▄▄▄▀▀
